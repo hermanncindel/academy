@@ -1,0 +1,111 @@
+.head{
+  color: black;
+  background-color: white;
+}
+/* .loupe{
+width: 50px;
+hei
+}
+.admin{
+  width: 75px;
+  height: 25px;
+} */
+.menu{
+  margin-left: 350px;
+}
+.headline{
+  background-image: url(images/footer.png);
+  color: white;
+  background-size: cover;
+  background-position: center;
+}
+.ici{
+  border-radius: 20px;
+}
+.boutton{
+  border-radius: 30px;
+  background-color: rgba(255,255,255, 0.1);
+}
+.bouton{
+  border-radius: 30px;
+}
+.foot{
+  background-image: url(images/footer.png);
+  color: white;
+  background-size: cover;
+  background-position: center;
+}
+ul{
+  text-decoration: none;
+  list-style: none;
+
+}
+ul>li{
+  margin: 0px;
+}
+hr{
+  width: auto;
+}
+.c1{
+  background-image: url(images/rez1.png);
+  background-size: cover;
+  background-position: center;
+  height: 160px;
+
+}
+.d1{
+  right: 5px;
+  color: white;
+}
+.img{
+  bottom: -20px;
+  left: 90px;
+  padding: 15px;
+  border: 2px solid white;
+}
+.c2{
+  background-image: url(images/party.png);
+  background-size: cover;
+  background-position: center;
+  height: 160px;
+}
+.c3{
+  background-image: url(images/salon.png);
+  background-size: cover;
+  background-position: center;
+  height: 160px;
+}
+.c4{
+  background-image: url(images/salon.png);
+  background-size: cover;
+  background-position: center;
+  height: 160px;
+}
+.c5{
+  background-image: url(images/salon1.png);
+  background-size: cover;
+  background-position: center;
+  height: 130px;
+}
+.c6{
+  background-image: url(images/hand.png);
+  background-size: cover;
+  background-position: center;
+  height: 130px;
+}
+.img1{
+  left: 10px;
+  bottom: -20px;
+  padding: 15px;
+  border: 2px solid white;
+}
+.p1{
+  bottom: 0px;
+  left: 150px;
+  color:white;
+  font-size: 20px;
+}
+footer h5{
+
+  text-decoration: underline;
+}
